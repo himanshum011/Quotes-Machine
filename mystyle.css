@@ -1,0 +1,32 @@
+.page
+{
+background: linear-gradient(#16235A, #313131);
+	}
+.main_page {
+	background: linear-gradient(-0deg, #E2DACD, #662828);
+    
+}
+
+.container{
+    display: table;
+    height: 974px;
+
+}
+
+.content {
+    background: #E2DACD;
+    padding: 40px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+.main_page h1{
+	font-family: 'Noto Serif', serif;
+	font-size: 125px;
+}
+
+.icon{
+	font-size:25px;
+	float:left;
+	margin-right: 10px;
+}
